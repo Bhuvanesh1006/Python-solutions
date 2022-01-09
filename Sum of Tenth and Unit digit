@@ -1,0 +1,4 @@
+n=int(input())
+t=int(n%10)
+u=int((n/10)%10)
+print(u+t)
